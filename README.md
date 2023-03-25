@@ -1,2 +1,3 @@
 # vorx-network
-Repositório com codigos de infra da empresa vorx
+
+Build vorx network on the AWS using terraform and jenkins pipeline
